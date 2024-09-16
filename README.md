@@ -1,4 +1,4 @@
-##Heyyyyy! I am BlackPool and I am currently learning coding and trying to hone my skills in various domains.
+Heyyyyy! I am BlackPool and I am currently learning coding and trying to hone my skills in various domains.
 I am learning Python, C and some other stuff. I will post my projects and stuff just to document my progress.
 
 
