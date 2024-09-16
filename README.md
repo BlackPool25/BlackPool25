@@ -1,4 +1,6 @@
-## Hi there 👋
+##Heyyyyy! I am BlackPool and I am currently learning coding and trying to hone my skills in various domains.
+I am learning Python, C and some other stuff. I will post my projects and stuff just to document my progress.
+
 
 <!--
 **BlackPool25/BlackPool25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
